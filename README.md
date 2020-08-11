@@ -1,2 +1,2 @@
-# down
-down file
+# 쪼이 YouTube 채널에서 제공하는 파일입니다.
+
