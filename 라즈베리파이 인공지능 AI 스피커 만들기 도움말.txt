@@ -29,7 +29,7 @@ https://www.putty.org/
 입력 >> speed >> 115200 변경 >> 하단에 Open
 
 6. 라즈베리 파이 최초 아이디는 : pi 
-패스워드 : rasperry
+패스워드 : raspberry
 
 
 
